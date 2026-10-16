@@ -1,0 +1,129 @@
+{
+  "format": 1,
+  "version": "v107",
+  "publishedAt": "2026-10-16T21:14:29+08:00",
+  "note": "公会修复基线：v107 客户端",
+  "repo": "1765770103/dnf90-client",
+  "tag": "v107",
+  "mirrors": [
+    "https://gh-proxy.com/https://github.com/1765770103/dnf90-client/releases/download/v107/",
+    "https://ghfast.top/https://github.com/1765770103/dnf90-client/releases/download/v107/",
+    "https://github.com/1765770103/dnf90-client/releases/download/v107/"
+  ],
+  "manifestMirrors": [
+    "https://gh-proxy.com/https://raw.githubusercontent.com/1765770103/dnf90-client/main/manifest.json",
+    "https://cdn.jsdelivr.net/gh/1765770103/dnf90-client@main/manifest.json",
+    "https://ghfast.top/https://raw.githubusercontent.com/1765770103/dnf90-client/main/manifest.json",
+    "https://raw.githubusercontent.com/1765770103/dnf90-client/main/manifest.json"
+  ],
+  "files": [
+    {
+      "path": "DNF.exe",
+      "asset": "DNF.exe",
+      "size": 111775744,
+      "sha256": "eeb8de2282001dc012eaf5b6f3df5a920539ab93cc3d07a626d9b478a301c9dd"
+    },
+    {
+      "path": "Script.pvf",
+      "asset": "Script.pvf",
+      "size": 119174744,
+      "sha256": "ad7d05c70421278f7385729bcba3e81e37d99d0f3df85a87a9f0dc19c92504cb"
+    },
+    {
+      "path": "dstr.dat",
+      "asset": "dstr.dat",
+      "size": 1719808,
+      "sha256": "ee8904c8540ef63807dc984604a3ea0f5cc4040228e5ac2e95d490c03d21ec08"
+    },
+    {
+      "path": "ImagePacks2/sprite_item.NPK",
+      "asset": "ImagePacks2__sprite_item.NPK",
+      "size": 2003420,
+      "sha256": "40d670e5d899385782843e5a69b7aa329fdc8a29cb51ba76f638e7a6807cbf44"
+    },
+    {
+      "path": "ImagePacks2/sprite_item_stackable.NPK",
+      "asset": "ImagePacks2__sprite_item_stackable.NPK",
+      "size": 20374882,
+      "sha256": "b939874bed9d40f53de894c9e991fba94eddcfd7d16fd220e8f1116f7d2610f8"
+    },
+    {
+      "path": "ImagePacks2/sprite_item_avatar_atfighter.NPK",
+      "asset": "ImagePacks2__sprite_item_avatar_atfighter.NPK",
+      "size": 4030155,
+      "sha256": "7a1f63268012bc4feb4ff6b5d5e02ec54a8809752644fdd28c2e60c1c1ba40d8"
+    },
+    {
+      "path": "ImagePacks2/sprite_item_avatar_atgunner.NPK",
+      "asset": "ImagePacks2__sprite_item_avatar_atgunner.NPK",
+      "size": 4231527,
+      "sha256": "65de6a5e07b58046104eec8e5b3386ffb02d86d1f8c1da18f62beda6fdfe8bfd"
+    },
+    {
+      "path": "ImagePacks2/sprite_item_avatar_atmage.NPK",
+      "asset": "ImagePacks2__sprite_item_avatar_atmage.NPK",
+      "size": 3241198,
+      "sha256": "3f5d9530aa34736f18a3df89fc081516d35b1bc70cae95ee182f1311ce7eaffb"
+    },
+    {
+      "path": "ImagePacks2/sprite_item_avatar_atswordman.NPK",
+      "asset": "ImagePacks2__sprite_item_avatar_atswordman.NPK",
+      "size": 3078351,
+      "sha256": "a7da1d447ca2e17efadc6b98bd8aa1f32297513505852ebae649ed12e2e43681"
+    },
+    {
+      "path": "ImagePacks2/sprite_item_avatar_fighter.NPK",
+      "asset": "ImagePacks2__sprite_item_avatar_fighter.NPK",
+      "size": 5141389,
+      "sha256": "4cf50a2a3daf2951ea369f84626ae7b8ffa8ad070ea0ec6eacbc0d83eb36f3ec"
+    },
+    {
+      "path": "ImagePacks2/sprite_item_avatar_gunner.NPK",
+      "asset": "ImagePacks2__sprite_item_avatar_gunner.NPK",
+      "size": 5165777,
+      "sha256": "14d0551a6cea89784ff97f89b879077d067dc94040a37dc49f7463e5ec25224f"
+    },
+    {
+      "path": "ImagePacks2/sprite_item_avatar_knight.NPK",
+      "asset": "ImagePacks2__sprite_item_avatar_knight.NPK",
+      "size": 2019285,
+      "sha256": "154da150cd2b7d0f59f30568c86e7c775e6a4007f156c9627b0f049202c24ad4"
+    },
+    {
+      "path": "ImagePacks2/sprite_item_avatar_mage.NPK",
+      "asset": "ImagePacks2__sprite_item_avatar_mage.NPK",
+      "size": 6720505,
+      "sha256": "77feb6d63f98e81f917c6701205557a2640c8af3814fb4c7701e51b7d8c26b55"
+    },
+    {
+      "path": "ImagePacks2/sprite_item_avatar_priest.NPK",
+      "asset": "ImagePacks2__sprite_item_avatar_priest.NPK",
+      "size": 5016752,
+      "sha256": "e73dc60f9abc361cafb86886269d8b8ba5355847fca4be48056f66b3b2f3806f"
+    },
+    {
+      "path": "ImagePacks2/sprite_item_avatar_swordman.NPK",
+      "asset": "ImagePacks2__sprite_item_avatar_swordman.NPK",
+      "size": 5919825,
+      "sha256": "97c805a583ca3205f426410f85634ce9439dbc1e23d4df44c6d421bfb9f5aef4"
+    },
+    {
+      "path": "ImagePacks2/sprite_item_avatar_thief.NPK",
+      "asset": "ImagePacks2__sprite_item_avatar_thief.NPK",
+      "size": 4047196,
+      "sha256": "925d28ef0078e874f07dcb8dd9d88341ed865b3b56688a72d858202b6b082ff6"
+    },
+    {
+      "path": "ImagePacks2/sprite_character_ykcn90_gifts_2016_2017.NPK",
+      "asset": "ImagePacks2__sprite_character_ykcn90_gifts_2016_2017.NPK",
+      "size": 13448,
+      "sha256": "4e8a1a12bedbbc617e198b20718bbf796337cd77baefe61b4914d08b43656d46"
+    },
+    {
+      "path": "ImagePacks2/ykcn90_gifts_2019_models.NPK",
+      "asset": "ImagePacks2__ykcn90_gifts_2019_models.NPK",
+      "size": 512438843,
+      "sha256": "1cb19a380363e284a2b633e137a1a1cb12a3f0668bdf805e6f59da948ad77732"
+    }
+  ]
+}
