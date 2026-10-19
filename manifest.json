@@ -1,14 +1,14 @@
 {
   "format": 1,
-  "version": "v124",
-  "publishedAt": "2026-10-17T20:30:37+08:00",
-  "note": "v124 公会区服0认证 + 5倍血量",
+  "version": "v141",
+  "publishedAt": "2026-10-19T11:37:54+08:00",
+  "note": "v141 副本队友资料时装及头像修复",
   "repo": "1765770103/dnf90-client",
-  "tag": "v124",
+  "tag": "v141",
   "mirrors": [
-    "https://gh-proxy.com/https://github.com/1765770103/dnf90-client/releases/download/v124/",
-    "https://ghfast.top/https://github.com/1765770103/dnf90-client/releases/download/v124/",
-    "https://github.com/1765770103/dnf90-client/releases/download/v124/"
+    "https://gh-proxy.com/https://github.com/1765770103/dnf90-client/releases/download/v141/",
+    "https://ghfast.top/https://github.com/1765770103/dnf90-client/releases/download/v141/",
+    "https://github.com/1765770103/dnf90-client/releases/download/v141/"
   ],
   "manifestMirrors": [
     "https://gh-proxy.com/https://raw.githubusercontent.com/1765770103/dnf90-client/main/manifest.json",
@@ -20,14 +20,8 @@
     {
       "path": "DNF.exe",
       "asset": "DNF.exe",
-      "size": 111796224,
-      "sha256": "eaa2485609fa9cc2c9ca99fadd743b5206a37b5517dd07d195eb35b3c0a29d50"
-    },
-    {
-      "path": "Script.pvf",
-      "asset": "Script.pvf",
-      "size": 120985108,
-      "sha256": "a3fac99ffff8adc840c00285a99f3a95afa91b96cbaa981c22141679e3d4e5f5"
+      "size": 111812608,
+      "sha256": "26abf551753c2745c2e5b349fb24336422a189187ff847c995e0df9a68871079"
     }
   ]
 }
