@@ -1,14 +1,14 @@
 {
   "format": 1,
-  "version": "v147",
-  "publishedAt": "2026-10-20T08:40:57+08:00",
-  "note": "v147 假面骑士模型 + 默认团本入口 + 签到配套（5倍血量）",
+  "version": "v150",
+  "publishedAt": "2026-10-21T08:46:06+08:00",
+  "note": "v150 1093状态通知 + 1113签到应答（预览版）",
   "repo": "1765770103/dnf90-client",
-  "tag": "v147",
+  "tag": "v150",
   "mirrors": [
-    "https://gh-proxy.com/https://github.com/1765770103/dnf90-client/releases/download/v147/",
-    "https://ghfast.top/https://github.com/1765770103/dnf90-client/releases/download/v147/",
-    "https://github.com/1765770103/dnf90-client/releases/download/v147/"
+    "https://gh-proxy.com/https://github.com/1765770103/dnf90-client/releases/download/v150/",
+    "https://ghfast.top/https://github.com/1765770103/dnf90-client/releases/download/v150/",
+    "https://github.com/1765770103/dnf90-client/releases/download/v150/"
   ],
   "manifestMirrors": [
     "https://gh-proxy.com/https://raw.githubusercontent.com/1765770103/dnf90-client/main/manifest.json",
@@ -20,14 +20,8 @@
     {
       "path": "DNF.exe",
       "asset": "DNF.exe",
-      "size": 111828992,
-      "sha256": "f17d9289658664f1a61069f322ace28608d24f93f1af30f81698d534ab4a8484"
-    },
-    {
-      "path": "Script.pvf",
-      "asset": "Script.pvf",
-      "size": 120996555,
-      "sha256": "01700c50f43c3c4995143e2966dd3aef64f725f050cd0fb7a23889e88f6ecfa4"
+      "size": 111841280,
+      "sha256": "f781c423eaad8ccdb0327a864d525f0ee0436663399eb809a09aa08bf390e61b"
     }
   ]
 }
